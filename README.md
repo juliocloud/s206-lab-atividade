@@ -62,4 +62,4 @@ A suíte de testes contém 6 cenários, sendo 4 positivos e 2 negativos.
 
 ### 4. Obter o Relatório de Testes
 *   Ao final da execução, a tela do "Runner" exibirá os resultados detalhados de cada teste.
-*   Para gerar um arquivo de relatório, clique em **"Export Results"** no canto superior direito e salve o arquivo JSON.
+*   Para gerar um arquivo de relatório, clique em **"Export Results"** no canto superior direito e salve o arquivo JSON.# s206-lab-atividade
